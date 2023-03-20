@@ -19,7 +19,7 @@ When a user approaches your webcam, the Python code utilizing TensorFlow, OpenCV
 
 4. USB Webcam (opens in new tab) or Raspberry Pi Camera
 
-## Part 3: Face Mask Model Training (Long Method) 
+## Face Mask Model Training (Long Method) 
 
 Now that you have your face mask detector up and running, you’re probably wondering, “How does it work?”
 
